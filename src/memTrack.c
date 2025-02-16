@@ -18,5 +18,5 @@ void* calloc(int n_items, size_t size)
 
 void* realloc(void* oldPtr, size_t size)
 {
-    ;
+     ;
 }
